@@ -33,9 +33,8 @@ function modifyAndExportSVG(name, imageUrl) {
             // 修改
             const tspan = svgDoc.getElementById('_持证人信息').getElementsByTagName('tspan');
             tspan[2].textContent = "  " + name;
-            tspan[9].textContent = `${certType.toUpperCase()}-${getId()}`;
-            tspan[10].textContent = "";
-            tspan[16].textContent = "  " + `${getDate()}`;
+            tspan[8].textContent = `${certType.toUpperCase()}-${getId()}`;
+            tspan[14].textContent = "  " + `${getDate()}`;
 
 
             const imageElement = svgDoc.getElementById('_头像');

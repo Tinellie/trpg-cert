@@ -214,7 +214,23 @@
       </g>
     </g>
     <image id="_头像" data-name="头像" width="726" height="724" transform="translate(363.95 262.11) scale(.17)" xlink:href="../../Users/Yuen/Pictures/share/Icons/84319ba23936fe72c546331da270ec88df59e9ae.jpg"/>
-    <text id="_持证人信息" data-name="持证人信息" class="cls-7" transform="translate(99 284)"><tspan x="0" y="0" xml:space="preserve">昵        称</tspan><tspan class="cls-31" x="56.56" y="0">：</tspan><tspan x="63.56" y="0" xml:space="preserve">  </tspan><tspan class="cls-19" x="70.7" y="0">r</tspan><tspan x="77.1" y="0">ain</tspan><tspan x="0" y="21">考证等级</tspan><tspan class="cls-31" x="56" y="21">：</tspan><tspan x="63" y="21" xml:space="preserve">  玩家</tspan><tspan x="0" y="42">注册编号</tspan><tspan class="cls-31" x="56" y="42">：</tspan><tspan x="63" y="42" xml:space="preserve">  </tspan><tspan class="cls-32" x="70.14" y="42">P</tspan><tspan x="79.1" y="42">L-677051409126</tspan><tspan x="0" y="63">考核认证</tspan><tspan class="cls-31" x="56" y="63">：</tspan><tspan x="63" y="63" xml:space="preserve">  人民群众</tspan><tspan x="0" y="84">考核日期</tspan><tspan class="cls-31" x="56" y="84">：</tspan><tspan x="63" y="84" xml:space="preserve">  2025年4月14日</tspan></text>
+    <text id="_持证人信息" data-name="持证人信息" class="cls-7" transform="translate(99 284)">
+      <tspan x="0" y="0" xml:space="preserve">昵        称</tspan>
+      <tspan class="cls-31" x="56.56" y="0">：</tspan>
+      <tspan class="cls-19" x="70.7" y="0">NAME</tspan>
+      <tspan x="0" y="21">考证等级</tspan>
+      <tspan class="cls-31" x="56" y="21">：</tspan>
+      <tspan x="63" y="21" xml:space="preserve">  玩家</tspan>
+      <tspan x="0" y="42">注册编号</tspan>
+      <tspan class="cls-31" x="56" y="42">：</tspan>
+      <tspan class="cls-32" x="70.14" y="42">ID</tspan>
+      <tspan x="0" y="63">考核认证</tspan>
+      <tspan class="cls-31" x="56" y="63">：</tspan>
+      <tspan x="63" y="63" xml:space="preserve">  人民群众</tspan>
+      <tspan x="0" y="84">考核日期</tspan>
+      <tspan class="cls-31" x="56" y="84">：</tspan>
+      <tspan x="63" y="84" xml:space="preserve">  yyyy/mm/dd</tspan>
+    </text>
     <text id="_介绍" data-name="介绍" class="cls-8" transform="translate(61.64 198.4)"><tspan x="0" y="0" xml:space="preserve">        本证书由密斯卡托尼克大学神秘学</tspan><tspan class="cls-11" x="272.64" y="0">系</tspan><tspan class="cls-27" x="288.33" y="0">、</tspan><tspan x="296.64" y="0" xml:space="preserve"> 跑团营地及大黄狗公证处</tspan><tspan class="cls-26" x="0" y="20">联合批准颁</tspan><tspan class="cls-20" x="80.64" y="20">发</tspan><tspan class="cls-9" x="96.45" y="20">，</tspan><tspan class="cls-26" x="104.9" y="20" xml:space="preserve"> 表明持证人已通过跑团营地组织的考</tspan><tspan class="cls-24" x="367.15" y="20">试</tspan><tspan class="cls-16" x="382.96" y="20">，</tspan><tspan class="cls-26" x="391.41" y="20" xml:space="preserve"> 取得了跑团</tspan><tspan x="0" y="40">玩家的职业资</tspan><tspan class="cls-22" x="96" y="40">格</tspan><tspan class="cls-29" x="111.68" y="40">，</tspan><tspan x="120" y="40" xml:space="preserve"> 是一位独一无二的</tspan><tspan class="cls-32" x="252.08" y="40">PL</tspan><tspan class="cls-33" x="272.24" y="40">。</tspan></text>
     <g id="_标题" data-name="标题">
       <text class="cls-5" transform="translate(163.17 150.47)"><tspan x="0" y="0">TR</tspan><tspan class="cls-28" x="19.82" y="0">P</tspan><tspan x="29.12" y="0">G </tspan><tspan class="cls-18" x="43.16" y="0">P</tspan><tspan class="cls-14" x="52.23" y="0">l</tspan><tspan class="cls-1" x="56.98" y="0">a</tspan><tspan class="cls-23" x="64.79" y="0">y</tspan><tspan x="72.46" y="0">er Qualifi</tspan><tspan class="cls-25" x="138.12" y="0">c</tspan><tspan class="cls-10" x="145.82" y="0">ation Ce</tspan><tspan class="cls-12" x="203.15" y="0">r</tspan><tspan x="210.05" y="0">tifi</tspan><tspan class="cls-21" x="229.79" y="0">c</tspan><tspan class="cls-15" x="237.49" y="0">ation</tspan></text>

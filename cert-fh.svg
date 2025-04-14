@@ -78,8 +78,9 @@
         stroke-width: 5.13px;
       }
 
+
       .cls-19 {
-        letter-spacing: -.47em;
+      letter-spacing: -.02em;
       }
 
       .cls-5, .cls-7 {
@@ -138,12 +139,13 @@
         fill: url(#_未命名的渐变_2);
       }
 
+
       .cls-31 {
-        letter-spacing: -.48em;
+      letter-spacing: -.5em;
       }
 
       .cls-32 {
-        letter-spacing: -.5em;
+      letter-spacing: -.01em;
       }
 
       .cls-33 {
@@ -214,7 +216,22 @@
       </g>
     </g>
     <image id="_头像" data-name="头像" width="726" height="724" transform="translate(363.95 262.11) scale(.17)" xlink:href="../../Users/Yuen/Pictures/share/Icons/84319ba23936fe72c546331da270ec88df59e9ae.jpg"/>
-    <text id="_持证人信息" data-name="持证人信息" class="cls-7" transform="translate(99 284)"><tspan x="0" y="0" xml:space="preserve">昵        称</tspan><tspan class="cls-32" x="56.56" y="0">：</tspan><tspan x="63.56" y="0" xml:space="preserve">  NAME</tspan><tspan x="0" y="21">考证等级</tspan><tspan class="cls-32" x="56" y="21">：</tspan><tspan x="63" y="21" xml:space="preserve">  粉红</tspan><tspan x="0" y="42">注册编号</tspan><tspan class="cls-32" x="56" y="42">：</tspan><tspan x="63" y="42" xml:space="preserve">  </tspan><tspan class="cls-16" x="70.14" y="42">F</tspan><tspan x="78.9" y="42">H-374519371545</tspan><tspan x="0" y="63">考核认证</tspan><tspan class="cls-32" x="56" y="63">：</tspan><tspan x="63" y="63" xml:space="preserve">  发涩图的群友们</tspan><tspan x="0" y="84">考核日期</tspan><tspan class="cls-32" x="56" y="84">：</tspan><tspan x="63" y="84" xml:space="preserve">  2025/4/14</tspan></text>
+    <text id="_持证人信息" data-name="持证人信息" class="cls-7" transform="translate(99 284)"><tspan x="0" y="0" xml:space="preserve">昵        称</tspan>
+      <tspan class="cls-31" x="56.56" y="0">：</tspan>
+      <tspan class="cls-19" x="70.7" y="0">NAME</tspan>
+      <tspan x="0" y="21">考证等级</tspan>
+      <tspan class="cls-31" x="56" y="21">：</tspan>
+      <tspan x="63" y="21" xml:space="preserve">  玩家</tspan>
+      <tspan x="0" y="42">注册编号</tspan>
+      <tspan class="cls-31" x="56" y="42">：</tspan>
+      <tspan class="cls-32" x="70.14" y="42">ID</tspan>
+      <tspan x="0" y="63">考核认证</tspan>
+      <tspan class="cls-31" x="56" y="63">：</tspan>
+      <tspan x="63" y="63" xml:space="preserve">  发涩图的群友们</tspan>
+      <tspan x="0" y="84">考核日期</tspan>
+      <tspan class="cls-31" x="56" y="84">：</tspan>
+      <tspan x="63" y="84" xml:space="preserve">  yyyy/mm/dd</tspan>
+    </text>
     <text id="_介绍" data-name="介绍" class="cls-8" transform="translate(61.64 198.4)"><tspan x="0" y="0" xml:space="preserve">        本证书由密斯卡托尼克大学神秘学</tspan><tspan class="cls-11" x="272.64" y="0">系</tspan><tspan class="cls-28" x="288.33" y="0">、</tspan><tspan x="296.64" y="0" xml:space="preserve"> 跑团营地及大黄狗公证处</tspan><tspan class="cls-27" x="0" y="20">联合批准颁</tspan><tspan class="cls-21" x="80.64" y="20">发</tspan><tspan class="cls-9" x="96.45" y="20">，</tspan><tspan class="cls-27" x="104.9" y="20" xml:space="preserve"> 表明持证人已通过跑团营地组织的考</tspan><tspan class="cls-24" x="367.15" y="20">试</tspan><tspan class="cls-19" x="382.96" y="20">，</tspan><tspan class="cls-27" x="391.41" y="20" xml:space="preserve"> 取得了粉红</tspan><tspan class="cls-27" x="0" y="40">团相关</tspan><tspan x="48.38" y="40">的职业资</tspan><tspan class="cls-33" x="112.38" y="40">格</tspan><tspan class="cls-34" x="128.22" y="40">。</tspan><tspan class="cls-23" x="136.38" y="40" xml:space="preserve"> 凭此证可与群友交换涩图或白丝</tspan><tspan class="cls-15" x="364.46" y="40">照</tspan><tspan class="cls-26" x="380.3" y="40">。</tspan></text>
     <g id="_标题" data-name="标题">
       <text class="cls-5" transform="translate(150.96 150.47)"><tspan x="0" y="0">TR</tspan><tspan class="cls-29" x="19.82" y="0">P</tspan><tspan x="29.12" y="0">G </tspan><tspan class="cls-17" x="43.16" y="0">F</tspan><tspan class="cls-10" x="52.01" y="0">H </tspan><tspan class="cls-20" x="67.59" y="0">P</tspan><tspan class="cls-14" x="76.66" y="0">l</tspan><tspan class="cls-1" x="81.41" y="0">a</tspan><tspan class="cls-22" x="89.22" y="0">y</tspan><tspan x="96.89" y="0">er Qualifi</tspan><tspan class="cls-25" x="162.55" y="0">c</tspan><tspan x="170.25" y="0">ation Ce</tspan><tspan class="cls-12" x="227.58" y="0">r</tspan><tspan x="234.48" y="0">tifi</tspan><tspan class="cls-25" x="254.22" y="0">c</tspan><tspan x="261.92" y="0">ation</tspan></text>

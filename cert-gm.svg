@@ -82,8 +82,9 @@
         letter-spacing: -.01em;
       }
 
+
       .cls-19 {
-        letter-spacing: 0em;
+      letter-spacing: -.02em;
       }
 
       .cls-7 {
@@ -136,6 +137,14 @@
 
       .cls-30 {
         letter-spacing: -.5em;
+      }
+
+      .cls-31 {
+      letter-spacing: -.5em;
+      }
+
+      .cls-32 {
+      letter-spacing: -.01em;
       }
     </style>
     <radialGradient id="_未命名的渐变_12" data-name="未命名的渐变 12" cx="300" cy="300" fx="300" fy="300" r="355.74" gradientUnits="userSpaceOnUse">
@@ -197,7 +206,21 @@
       </g>
     </g>
     <image id="_头像" data-name="头像" width="400" height="400" transform="translate(364.03 262.03) scale(.3)" xlink:href="../../Users/Yuen/Pictures/share/Icons/AiLwwdI8_400x400.jpg"/>
-    <text id="_持证人信息" data-name="持证人信息" class="cls-8" transform="translate(99 284)"><tspan x="0" y="0" xml:space="preserve">昵        称</tspan><tspan class="cls-30" x="56.56" y="0">：</tspan><tspan x="63.56" y="0" xml:space="preserve">  苍穹</tspan><tspan x="0" y="21">考证等级</tspan><tspan class="cls-30" x="56" y="21">：</tspan><tspan x="63" y="21" xml:space="preserve">  守秘人</tspan><tspan x="0" y="42">注册编号</tspan><tspan class="cls-30" x="56" y="42">：</tspan><tspan x="63" y="42" xml:space="preserve">  </tspan><tspan class="cls-1" x="70.14" y="42">G</tspan><tspan x="80.51" y="42">M-000000000000</tspan><tspan x="0" y="63">考核认证</tspan><tspan class="cls-30" x="56" y="63">：</tspan><tspan x="63" y="63" xml:space="preserve">  所有跑团玩家</tspan><tspan x="0" y="84">考核日期</tspan><tspan class="cls-30" x="56" y="84">：</tspan><tspan x="63" y="84" xml:space="preserve">  2025/4/14</tspan></text>
+    <text id="_持证人信息" data-name="持证人信息" class="cls-8" transform="translate(99 284)"><tspan x="0" y="0" xml:space="preserve">昵        称</tspan>
+      <tspan class="cls-31" x="56.56" y="0">：</tspan>
+      <tspan class="cls-19" x="70.7" y="0">NAME</tspan>
+      <tspan x="0" y="21">考证等级</tspan>
+      <tspan class="cls-31" x="56" y="21">：</tspan>
+      <tspan x="63" y="21" xml:space="preserve">  玩家</tspan>
+      <tspan x="0" y="42">注册编号</tspan>
+      <tspan class="cls-31" x="56" y="42">：</tspan>
+      <tspan class="cls-32" x="70.14" y="42">ID</tspan>
+      <tspan x="0" y="63">考核认证</tspan>
+      <tspan class="cls-31" x="56" y="63">：</tspan>
+      <tspan x="63" y="63" xml:space="preserve">  所有跑团玩家</tspan>
+      <tspan x="0" y="84">考核日期</tspan>
+      <tspan class="cls-31" x="56" y="84">：</tspan>
+      <tspan x="63" y="84" xml:space="preserve">  yyyy/mm/dd</tspan></text>
     <text id="_介绍" data-name="介绍" class="cls-9" transform="translate(61.64 198.4)"><tspan x="0" y="0" xml:space="preserve">        本证书由密斯卡托尼克大学神秘学</tspan><tspan class="cls-11" x="272.64" y="0">系</tspan><tspan class="cls-25" x="288.33" y="0">、</tspan><tspan x="296.64" y="0" xml:space="preserve"> 跑团营地及大黄狗公证处</tspan><tspan class="cls-24" x="0" y="20">联合批准颁</tspan><tspan class="cls-18" x="80.64" y="20">发</tspan><tspan class="cls-10" x="96.45" y="20">，</tspan><tspan class="cls-24" x="104.9" y="20" xml:space="preserve"> 表明持证人已通过跑团营地组织的考</tspan><tspan class="cls-21" x="367.15" y="20">试</tspan><tspan class="cls-17" x="382.96" y="20">，</tspan><tspan class="cls-24" x="391.41" y="20" xml:space="preserve"> 取得了跑团</tspan><tspan x="0" y="40">主持人的职业资</tspan><tspan class="cls-16" x="112" y="40">格</tspan><tspan class="cls-23" x="127.84" y="40">。</tspan></text>
     <g id="_标题" data-name="标题">
       <text class="cls-6" transform="translate(139.04 150.47)"><tspan x="0" y="0">TR</tspan><tspan class="cls-26" x="19.82" y="0">P</tspan><tspan x="29.12" y="0">G Game </tspan><tspan class="cls-20" x="87.01" y="0">M</tspan><tspan x="100.56" y="0">as</tspan><tspan class="cls-13" x="115.42" y="0">t</tspan><tspan x="120.73" y="0">er Qualifi</tspan><tspan class="cls-19" x="186.39" y="0">c</tspan><tspan x="194.09" y="0">ation Ce</tspan><tspan class="cls-27" x="251.42" y="0">r</tspan><tspan class="cls-15" x="258.32" y="0">tifi</tspan><tspan class="cls-29" x="278.06" y="0">c</tspan><tspan class="cls-22" x="285.76" y="0">ation</tspan></text>
