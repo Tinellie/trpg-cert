@@ -1,10 +1,14 @@
 @font-face {
-    font-family: "SourceHanSerif";
+    font-family: "SourceHanSerifSCVF-Medium";
+    src: url(sourcehanserifsc.ttf);
+}
+@font-face {
+    font-family: "SourceHanSerifSCVF-SemiBold";
     src: url(sourcehanserifsc.ttf);
 }
 
-body, body * {
-    font-family: "SourceHanSerif", sans-serif !important;
+body {
+    font-family: Arial, "SourceHanSerif", sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
