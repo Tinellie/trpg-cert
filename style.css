@@ -3,8 +3,8 @@
     src: url(sourcehanserifsc.ttf);
 }
 
-body {
-    font-family: "SourceHanSerif", sans-serif;
+body, body * {
+    font-family: "SourceHanSerif", sans-serif !important;
     display: flex;
     justify-content: center;
     align-items: center;
