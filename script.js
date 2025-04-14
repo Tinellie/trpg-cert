@@ -31,10 +31,12 @@ function modifyAndExportSVG(name, imageUrl) {
             const svgDoc = parser.parseFromString(svgText, "image/svg+xml");
 
             // 修改
-            const tspan = svgDoc.getElementById('_持证人信息').getElementsByTagName('tspan')[2];
-            if (tspan) {
-                tspan.textContent = "  " + name; // 设置为输入的姓名
-            }
+            const tspan = svgDoc.getElementById('_持证人信息').getElementsByTagName('tspan');
+            tspan[2].textContent = "  " + name; 
+            tspan[9].textContent = `${certType.toUpperCase()}-${getId()}`;
+            tspan[10].textContent = "";
+            tspan[16].textContent = "  " + `${getDate()}`;
+
 
             const imageElement = svgDoc.getElementById('_头像');
             if (imageElement) {
@@ -127,3 +129,16 @@ document.getElementById('downloadPngButton').addEventListener('click', () => {
 
     img.src = url;
 });
+
+function getDate(){
+    const today = new Date();
+    const year = today.getFullYear();
+    const month = String(today.getMonth() + 1).padStart(2, '0');
+    const date = String(today.getDate()).padStart(2, '0');
+    return `${year}/${month}/${date}`;
+}
+function getId() {
+    let id = Math.random() * 1e11
+    if (id < 1e11) id += 1e11
+    return id.toFixed(0)
+}
