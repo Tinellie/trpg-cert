@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+#certificateContainer {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    display: inline-block;
+}
+
+input[type="text"],
+input[type="file"],
+select,
+button {
+    background-color: white;
+    display: block;
+    margin: 10px auto;
+    width: 90%;
+    max-width: 400px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box; 
+}
+
+button {
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+}
+
+button#downloadButton,
+button#downloadPngButton{
+    background-color: #00d05b;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+
+.custom-select {
+    appearance: none; 
+    background: url('data:image/png;base64,...') no-repeat right 10px center; 
+    background-size: 12px; 
+}

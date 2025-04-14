@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>证件生成器</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <h1>证件生成器</h1>
+    <select id="typeSelect" class="custom-select">
+        <option value="" disabled>类型</option>
+        <option value="gm" selected>GM</option>
+        <option value="pl">PL</option>
+        <option value="fh">粉红</option>
+    </select>
+    <input type="text" id="nameInput" placeholder="输入名称" />
+    <input type="file" id="imageInput" accept="image/*" />
+    <button id="generateButton">生成</button>
+    <button id="downloadButton" style="display:none;">下载svg</button>
+    <button id="downloadPngButton" style="display:none;">下载png</button>
+    <div id="certificateContainer"></div>
+</div>
+<script src="script.js"></script>
+<script>
+    (function(d) {
+        let config = {
+                kitId: 'kej1fwp',
+                scriptTimeout: 3000,
+                async: true
+            },
+            h = d.documentElement, t = setTimeout(function () {
+                h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive";
+            }, config.scriptTimeout), tk = d.createElement("script"), f = false, s = d.getElementsByTagName("script")[0], a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+    })(document);
+</script>
+</body>
+</html>
